@@ -1,0 +1,17 @@
+/Serveur/modules/SUMO_Lin64_1.3.5/*
+/Serveur/modules/S2_treatment/__pycache__/*
+/Serveur/modules/__pycache__/*
+/Serveur/__pycache__/*
+/html/S1*
+/html/S2*
+*.SAFE
+*.zip
+*_img
+*.png
+*.pickle
+*.SAFE/*
+*.tiff
+*new*
+*PROCESSED
+*.h5
+*.pickle
